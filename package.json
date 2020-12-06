@@ -1,15 +1,15 @@
 {
-  "name": "atom-sass",
+  "name": "scss-compiler",
   "main": "./lib/atom-sass",
-  "version": "0.4.0",
-  "description": "Sass compiler for atom.",
+  "version": "0.0.0",
+  "description": "SCSS compiler for atom. Does not work with SASS, just SCSS.",
   "keywords": [
     "atom",
     "sass",
     "scss",
     "compile"
   ],
-  "repository": "https://github.com/rehrumesh/atom-sass",
+  "repository": "https://github.com/zhandavidz/scss-compiler",
   "license": "MIT",
   "engines": {
     "atom": ">=1.0.0 <2.0.0"

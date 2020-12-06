@@ -1,4 +1,4 @@
-# Atom-Sass: Sass Compiler for ATOM editor
+# scss-compiler: A SCSS Compiler for the ATOM editor
 
 [![apm](https://img.shields.io/apm/v/atom-sass.svg?maxAge=2592000)](https://atom.io/packages/atom-sass)
 [![apm](https://img.shields.io/apm/dm/atom-sass.svg?style=flat-square)](https://atom.io/packages/atom-sass)
@@ -7,7 +7,7 @@
 
 `scss-compiler` is based on sass Ruby gem. This project is forked from [rehrumesh's atom-sass](https://github.com/rehrumesh/atom-sass) project, and this project draws the majority of the code from that project. Most of this work in [rehrumesh's atom-sass](https://github.com/rehrumesh/atom-sass) project is based on [GomatoX's sass-compile](https://github.com/GomatoX/sass-compiler) project. Huge thanks to both of them for coming up with the initial projects.
 
-## Where does the compiled file go?
+## Where do the compiled files go?
 
 This was one reason why I forked the original repo. In this project, proper organization will mean that your `.scss` file should be in a directory, preferably named `sass` or `scss`, and the compiler will go to the parent folder and put the compiled `.css` file in a folder named `css` in the parent directory. In other words, it should look like this:
 ```

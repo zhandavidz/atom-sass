@@ -12,7 +12,7 @@
       "label": "Packages",
       "submenu": [
         {
-          "label": "Atom SASS",
+          "label": "butter: SASS Compiler",
           "submenu": [
             {
               "label": "Compile file",

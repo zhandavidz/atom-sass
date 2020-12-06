@@ -1,9 +1,8 @@
-# scss-compiler: A SCSS Compiler for the ATOM editor
+# scss-compiler: A SCSS Compiler for Atom
 
-[![apm](https://img.shields.io/apm/v/atom-sass.svg?maxAge=2592000)](https://atom.io/packages/atom-sass)
-[![apm](https://img.shields.io/apm/dm/atom-sass.svg?style=flat-square)](https://atom.io/packages/atom-sass)
-[![GitHub license](https://img.shields.io/badge/license-MIT-blue.svg)](https://raw.githubusercontent.com/rehrumesh/atom-sass/master/LICENSE.md)
-[![Build Status](https://travis-ci.org/rehrumesh/atom-sass.svg?branch=master)](https://travis-ci.org/rehrumesh/atom-sass)
+[![apm](https://img.shields.io/apm/v/scss-compiler.svg?maxAge=2592000)](https://atom.io/packages/scss-compiler)
+[![apm](https://img.shields.io/apm/dm/scss-compiler.svg?style=flat-square)](https://atom.io/packages/scss-compiler)
+[![GitHub license](https://img.shields.io/badge/license-MIT-blue.svg)](https://raw.githubusercontent.com/zhandavidz/scss-compiler/master/LICENSE.md)
 
 `scss-compiler` is based on sass Ruby gem. This project is forked from [rehrumesh's atom-sass](https://github.com/rehrumesh/atom-sass) project, and this project draws the majority of the code from that project. Most of this work in [rehrumesh's atom-sass](https://github.com/rehrumesh/atom-sass) project is based on [GomatoX's sass-compile](https://github.com/GomatoX/sass-compiler) project. Huge thanks to both of them for coming up with the initial projects.
 

@@ -2,7 +2,7 @@
   "context-menu": {
     "atom-text-editor": [
       {
-        "label": "Atom-sass: compile file",
+        "label": "scss-compiler: start compiler",
         "command": "atom-sass:compile"
       }
     ]
@@ -12,10 +12,10 @@
       "label": "Packages",
       "submenu": [
         {
-          "label": "butter: SASS Compiler",
+          "label": "SCSS Compiler",
           "submenu": [
             {
-              "label": "Compile file",
+              "label": "Start Compiler [ctrl-alt-c]",
               "command": "atom-sass:compile"
             }
           ]

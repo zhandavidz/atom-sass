@@ -1,7 +1,7 @@
 {
   "name": "scss-compiler",
   "main": "./lib/atom-sass",
-  "version": "0.1.0",
+  "version": "0.2.0",
   "description": "SCSS compiler for atom. Does not work with SASS, just SCSS.",
   "keywords": [
     "atom",
